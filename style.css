@@ -1,3 +1,8 @@
+* {
+  margin: 0%;
+  padding: 0%;
+  box-sizing: border-box;
+}
 /*--------------------------------------------------------------
 /** 1. VARIABLES
 --------------------------------------------------------------*/
@@ -872,10 +877,25 @@ footer span {
   font-weight: bold;
 }
 @media screen and (max-width: 991px) {
+  .aboutintro > .row , .col-md-12 , .col-md-6 {
+    padding: 0%;
+  }
+  .aboutinfo {
+    width: 100%;
+  }
+  .aboutinfo .row {
+    width: 100%;
+    margin: 0%;
+  }
   .aboutinfo .col-md-8{
+    width: 100%;
     padding: 0px !important;
   }
+  .aboutinfo .col-md-8 p {
+    width: 100%;
+  }
   .aboutinfo .col-md-4{
+    width: 100%;
     padding: 0px !important;
     text-align: center;
   }
