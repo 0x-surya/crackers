@@ -927,4 +927,8 @@ footer span {
     height: 360px;
     width: 260px !important;
   }
+  .paymentpage .payimage {
+    height: 360px;
+    width: 260px !important;
+  }
 }
