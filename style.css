@@ -872,6 +872,16 @@ footer span {
   font-weight: bold;
 }
 @media screen and (max-width: 991px) {
+  .aboutinfo .col-md-8{
+    padding: 0px !important;
+  }
+  .aboutinfo .col-md-4{
+    padding: 0px !important;
+    text-align: center;
+  }
+  .aboutinfo .col-md-4 img{
+    width: 50%;
+  }
   .contact .col-md-6.p-5 {
     padding: 16px 14px !important;
   }
