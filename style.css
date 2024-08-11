@@ -921,6 +921,7 @@ footer span {
   }
   .shoppage .col-md-6 {
     padding: 0px 20px !important;
+    text-align: center;
   }
   .shoppage .col-md-6 img {
     height: 360px;
