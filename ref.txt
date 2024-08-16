@@ -1,0 +1,68 @@
+<section class="py-5 contact shoppage">
+
+    <!-- <div class="bg-secondary py-2 my-5 rounded-5"> -->
+    <div class="container my-5">
+        <form class="row">
+            <div class="col-md-6 px-5">
+                <div class="mb-3">
+                    <label for="name" class="form-label">Name</label>
+                    <input type="text" class="form-control form-control-sm" name="name" id="name">
+                </div>
+                <div class="mb-3">
+                    <label for="num" class="form-label">Mobile Number</label>
+                    <input type="text" class="form-control form-control-sm" name="number" id="num">
+                </div>
+                <div class="mb-3">
+                    <label for="num" class="form-label">Alternate Number</label>
+                    <input type="text" class="form-control form-control-sm" name="number" id="num">
+                </div>
+                <div class="mb-3">
+                    <label for="" class="form-label">Email</label>
+                    <input type="email" class="form-control form-control-sm" name="email" id="email">
+                </div>
+                <div class="mb-3">
+                    <label for="message" class="form-label">Address</label>
+                    <textarea class="form-control form-control-sm" name="message" id="message"
+                        rows="6"></textarea>
+                </div>
+                <div class="mb-3">
+                    <label for="name" class="form-label">Near by Delivery City</label>
+                    <input type="text" class="form-control form-control-sm" name="name" id="name">
+                </div>
+                <div class="mb-3">
+                    <label for="name" class="form-label">Pincode</label>
+                    <input type="text" class="form-control form-control-sm" name="name" id="name">
+                </div>
+                <div class="mb-3">
+                    <label for="name" class="form-label">State</label>
+                    <input type="text" class="form-control form-control-sm" name="name" id="name">
+                </div>
+                <div class="mb-3">
+                    <label for="name" class="form-label">Screenshot</label>
+                    <input type="file" class="form-control" name="file" id="file">
+                </div>
+            </div>
+            <div class="col-md-6 px-5">
+
+                <div class="section-header">
+
+                    <div class="mb-3">
+                        <label for="sub" class="form-label">Sub Total </label>
+                        <input type="text" class="form-control form-control-sm" name="total" id="total">
+                    </div>
+
+                    <button type="submit" class="btn btn-primary mb-5">Submit Order</button>
+                    <h6>Google Pay: 9597593990</h6>
+                    <p>Name: MUTHUKUMAR E </p>
+
+
+                    <h6>Phone Pay: 9597593990</h6>
+                    <p>Name: MUTHUKUMAR E</p>
+
+                </div>
+                <img src="images/scanner.jpeg" alt="scanner" height=500 width=350>
+
+            </div>
+        </form>
+    </div>
+</section>
